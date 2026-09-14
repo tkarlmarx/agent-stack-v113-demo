@@ -1,0 +1,8 @@
+{
+  "name": "sample-web-app",
+  "version": "1.0.0",
+  "description": "Simple web application for workspace preview",
+  "scripts": {
+    "start": "python3 -m http.server 8000"
+  }
+}
