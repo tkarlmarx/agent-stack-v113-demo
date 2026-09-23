@@ -1,0 +1,8 @@
+{
+  "name": "v113demo",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "python3 -m http.server 8000",
+    "test": "node -e \"console.log(2+2)\""
+  }
+}
